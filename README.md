@@ -2,7 +2,7 @@
 ### 3 "Answers:"
 
 
-1. to switch between different
+1. to switch between different systems or controls, something like linux or windows
 2.I have no idea what the answer to this one
 3.I have no idea what the answer to this one
 4.to copy the code from one side to the other side
